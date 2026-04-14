@@ -31,7 +31,7 @@
 ## How to Reproduce
 
 ### 1. Open in Google Colab
-Upload `music_weather_colab.ipynb` to [colab.research.google.com](https://colab.research.google.com).
+Upload `music_weather_colab2.ipynb` to [colab.research.google.com](https://colab.research.google.com).
 
 ### 2. Mount Google Drive
 Run **Step 0** — sign in and set your save folder path.
