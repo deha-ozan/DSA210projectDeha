@@ -76,4 +76,4 @@ Four supervised models were applied to predict listening behavior from weather a
 
 ## AI Tool Usage
 
-Parts of this code were drafted with the assistance of Claude (Anthropic). Prompts included requests to structure the data cleaning pipeline, select appropriate statistical tests, write plotting code, and implement ML models. All outputs were reviewed and adapted.
+Parts of this code were drafted with the assistance of Claude (Anthropic). All outputs were reviewed and adapted.
