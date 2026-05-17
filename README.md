@@ -1,6 +1,6 @@
 # Music Listening Behavior & Weather Analysis
 
-**DSA 210 — Introduction to Data Science | Spring 2026 | Deha Ozan**
+**DSA 210 — Introduction to Data Science | Spring 2026 | Ali Deha Ozan**
 
 > Does Istanbul weather predict how much and what I listen to? This project analyzes ~93k personal Apple Music records against historical weather data for Istanbul across 2.5 years.
 
